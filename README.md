@@ -43,12 +43,6 @@ This is a visually engaging, parallax-based website showcasing adventure activit
 - **style.css**: Contains all custom styles and animations.
 - **Images**: Folder with background images (e.g., `background.png`, `foreground.png`, `sport-1.jpg`, etc.).
 
-## Screenshots
-
-![Adventure Section](screenshots/adventure_section.png)  
-![Biking Section](screenshots/biking_section.png)  
-![Paragliding Section](screenshots/paragliding_section.png)
-
 ## Credits
 
 - **Fonts**: [Google Fonts - Poppins](https://fonts.google.com/specimen/Poppins)
