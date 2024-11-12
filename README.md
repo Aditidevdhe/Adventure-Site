@@ -1,6 +1,4 @@
 # Adventure-Site
-Here’s a README file tailored for your parallax adventure website project:
-
 ---
 
 # Parallax Adventure Website 🌄
